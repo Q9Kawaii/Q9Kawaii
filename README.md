@@ -25,6 +25,7 @@ Hey there! I'm **Q9Kawaii**, a passionate **developer & student** who loves expl
 ---
 
 ## 📌 About Me  
+🔹 **Currently A SRM, Kattantuathur Student (1st Year).
 🔹 **Currently Working On:** Polling Portal & Notification System  
 🔹 **Exploring:** Firebase, Backend Development  
 🔹 **Fun Fact:** I debug more than I code! 😆  
