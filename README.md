@@ -32,15 +32,6 @@ Hey there! I'm **Q9Kawaii**, a passionate **developer & student** who loves expl
 
 ---
 
-## 📊 GitHub Stats  
-📈 **Coding Streaks:**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Q9Kawaii&theme=radical)  
-
-📌 **Languages Used:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Q9Kawaii&layout=compact&theme=radical)  
-
----
-
 ## 🌍 Contact Me  
 <p align="center">
   <a href="https://www.instagram.com/technoslive_/">
