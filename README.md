@@ -1,6 +1,4 @@
-![Header](https://your-image-link.com/header.png)
-
-# 🌟 Welcome to My GitHub! 🌟  
+# ☘️ Welcome to My GitHub! ☘️
 
 Hey there! I'm **Q9Kawaii**, a passionate **developer & student** who loves exploring programming and building cool projects! 🚀  
 
