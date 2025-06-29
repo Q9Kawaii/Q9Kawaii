@@ -9,8 +9,6 @@
 👋 Hey there! I'm **Q9Kawaii**, a passionate **developer & student** who loves exploring programming and building cool projects! 🌟
 
 🔹 **Currently:** 1st Year Student at SRM, Kattankulathur  
-🔹 **Working On:** Polling Portal & Notification System  
-🔹 **Exploring:** Firebase, Backend Development  
 🔹 **Fun Fact:** I debug more than I code! 😆  
 
 ---
